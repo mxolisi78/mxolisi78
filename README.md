@@ -1,164 +1,97 @@
-# 👋 Hi, I'm Mxolisi Maseko
 
-### ICT Applications Development | Software Developer | Technology Enthusiast
+# Mxolisi Maseko
 
-Welcome to my GitHub profile!
+**ICT Applications Development | Software Developer | Technology Enthusiast**
 
-I'm an ICT Applications Development graduate from **Sol Plaatje University**, currently awaiting my final results and formal graduation.
-
-I'm passionate about technology, software development, problem-solving and building practical applications that solve real-world problems.
-
-I enjoy learning new technologies, developing applications and continuously improving my technical skills through hands-on projects.
+📍 South Africa | 🎓 Sol Plaatje University | 💼 Open to ICT Opportunities
 
 ---
 
-## 👨‍💻 About Me
-
-- 🎓 Diploma in ICT (Applications Development) – Sol Plaatje University
-- 💻 Interested in Software Development, Systems Development and IT Support.
-- 🌱 Continuously learning and developing practical ICT solutions.
-- 📊 Interested in Data Analysis, Database Management and Cybersecurity.
-- 🔍 Enjoy solving technical problems and exploring new technologies.
-- 💼 Open to ICT internships, graduate programmes, learnerships and entry-level opportunities across South Africa.
+- 🎓 Diploma in ICT (Applications Development), Sol Plaatje University. Academic programme completed; awaiting final results and graduation.
+- 💻 Focus areas: Software Development, Systems Development, Web Applications and IT Support.
+- 🛠️ Building practical applications using Python, Django, React, C# and ASP.NET Core.
+- 📊 Interested in Data Analytics, Database Management and Cybersecurity.
+- 💡 Passionate about solving real-world problems through technology.
+- 🤝 Open to internships, graduate programmes and junior ICT opportunities across South Africa.
 
 ---
 
-## 🛠️ Technical Skills
+## 🖥️ Projects & Products
 
-**Programming Languages**
-- Python
-- JavaScript
-- C#
-- SQL
+### Applications & Systems
 
-**Frameworks & Technologies**
-- Django
-- React.js
-- ASP.NET Core
-- HTML5
-- CSS3
-- Bootstrap
+| Project | Description | Technologies |
+|---|---|---|
+| ShopSphere | E-commerce application with API and frontend integration | C#, ASP.NET Core, React, SQL Server |
+| Smart Face Attendance | Face recognition and employee attendance system | Python, Django, OpenCV |
+| Payroll Management System | Employee, attendance and payroll management | Python, Django, SQLite |
+| Student Management System | Student, subject and marks management | Python, Django |
+| SentinelX | Cybersecurity dashboard platform | Python, Django |
+| My Portfolio | Personal developer portfolio website | React, Vite, JavaScript |
 
-**Databases**
-- Microsoft SQL Server
-- SQLite
+### Data Science & Analytics
 
-**Tools & Development**
-- Git and GitHub
-- Visual Studio Code
-- Jupyter Notebook
-- REST API Development
-- Microsoft Excel
+| Project | Description | Technologies |
+|---|---|---|
+| Employee Attrition Prediction | Machine learning classification and attrition analysis | Python, Scikit-learn, SMOTE |
+| South African Education & Unemployment Analysis | Analysis of education and unemployment trends | Python, Pandas, NumPy, SQLite, Excel |
 
-**Other Technical Areas**
+---
+
+## ⚙️ Technologies & Tools
+
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![CSharp](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+### Frameworks & Libraries
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+### Databases & Tools
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 📈 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mxolisi78&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mxolisi78&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+---
+
+## 📦 Development Interests
+
 - Software Engineering
-- Application Development
-- Database Management
-- Data Analysis
+- REST API Development
+- Web Application Development
+- Database Design
+- Machine Learning
+- Cybersecurity
 - IT Support and Troubleshooting
-- Web Development
-
----
-
-## 🚀 Featured Projects
-
-### 1. ShopSphere – E-commerce Application
-
-An e-commerce application developed using modern web technologies, featuring backend API development and frontend integration.
-
-**Technologies:** C#, ASP.NET Core Web API, Entity Framework Core, SQL Server, React, Vite and JWT Authentication.
-
-### 2. Payroll Management System
-
-A web-based payroll management application designed to manage employee information, attendance, leave management and payroll operations.
-
-**Technologies:** Python, Django, Bootstrap and SQLite.
-
-### 3. Smart Face Attendance System
-
-A face-recognition-based attendance management application designed to support employee face registration and attendance tracking.
-
-**Technologies:** Python, Django, OpenCV and NumPy.
-
-### 4. SentinelX Cyber Defense Platform
-
-A cybersecurity dashboard project focused on developing a platform for security-related monitoring and management.
-
-**Technologies:** Python and Django.
-
-### 5. South African Education & Unemployment Data Analysis
-
-A data analysis project exploring the relationship between tertiary education enrolment and unemployment in South Africa using datasets from the World Bank.
-
-**Technologies:** Python, Pandas, NumPy, Excel and SQLite.
-
-### 6. Employee Attrition Prediction
-
-A machine learning project focused on analysing employee data and predicting employee attrition using classification techniques.
-
-**Technologies:** Python, Scikit-learn, SMOTE and Feature Engineering.
-
-### 7. Student Management System
-
-A web-based application designed to manage student records, subjects and academic marks.
-
-**Technologies:** Python and Django.
-
----
-
-## 📚 Education
-
-**Sol Plaatje University**
-
-Diploma in ICT (Applications Development)
-
-Academic programme completed – awaiting final results and formal graduation.
-
-Relevant coursework:
-- Applications Development
-- Web Development
-- Programming 1, 2 and 3
-- Software Engineering
-- Database and Information Systems
-- Mobile Applications Development
-- Human Computer Interaction
-- Project Management
-- Applied Mathematics for Computing
-
----
-
-## 🌱 Currently Learning
-
-- Advanced Python Development
-- Modern Web Application Development
-- REST API Development
-- Database Design and Management
-- Cybersecurity Fundamentals
-- Data Analysis and Machine Learning
-- Software Development Best Practices
-
----
-
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mxolisi78&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mxolisi78&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🤝 Connect With Me
 
-- 💼 LinkedIn: [Mxolisi Maseko](https://linkedin.com/in/mxolisi-maseko-9810b93a4)
-- 💻 GitHub: [mxolisi78](https://github.com/mxolisi78)
-- 📧 Email: ismaimxolisi78@gmail.com
+- **LinkedIn:** [Mxolisi Maseko](https://linkedin.com/in/mxolisi-maseko-9810b93a4)
+- **GitHub:** [mxolisi78](https://github.com/mxolisi78)
+- **Portfolio:** [My Portfolio](https://mxolisi78.github.io/my-portfolio)
+- **Email:** ismaimxolisi78@gmail.com
 
 ---
 
-## 🎯 Career Goals
+<p align="center">
+  <i>Building, learning and growing through technology.</i>
+</p>
 
-My goal is to grow as an ICT professional, gain practical industry experience, contribute to meaningful technology projects and continuously develop my technical and problem-solving skills.
-
-I'm open to opportunities throughout South Africa, including remote positions.
-
-**Thank you for visiting my profile! Feel free to explore my repositories.** ⭐
