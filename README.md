@@ -16,25 +16,62 @@
 
 ---
 
+
 ## 🖥️ Projects & Products
 
-### Applications & Systems
+### 💻 Applications & Systems
 
-| Project | Description | Technologies |
-|---|---|---|
-| ShopSphere | E-commerce application with API and frontend integration | C#, ASP.NET Core, React, SQL Server |
-| Smart Face Attendance | Face recognition and employee attendance system | Python, Django, OpenCV |
-| Payroll Management System | Employee, attendance and payroll management | Python, Django, SQLite |
-| Student Management System | Student, subject and marks management | Python, Django |
-| SentinelX | Cybersecurity dashboard platform | Python, Django |
-| My Portfolio | Personal developer portfolio website | React, Vite, JavaScript |
+| Project | Description | Technologies | Repository |
+|---|---|---|---|
+| ShopSphere | Full-stack e-commerce application | C#, ASP.NET Core, React, SQL Server | Repository link to be added |
+| Smart Face Attendance | Face recognition and employee attendance system | Python, Django, OpenCV | [View Project](https://github.com/mxolisi78/smart-face-attendance-system) |
+| Payroll Management System | Employee, attendance and payroll management | Python, Django, SQLite | Repository link to be added |
+| Student Management System | Student records, subjects and marks management | Python, Django | Repository link to be added |
+| SentinelX Cyber Defense | Cybersecurity dashboard platform | Python, Django | Repository link to be added |
+| Personal Portfolio | Personal developer portfolio website | React, Vite, JavaScript | [View Project](https://github.com/mxolisi78/my-portfolio) |
 
-### Data Science & Analytics
+### 📊 Data Science & Analytics
 
-| Project | Description | Technologies |
-|---|---|---|
-| Employee Attrition Prediction | Machine learning classification and attrition analysis | Python, Scikit-learn, SMOTE |
-| South African Education & Unemployment Analysis | Analysis of education and unemployment trends | Python, Pandas, NumPy, SQLite, Excel |
+| Project | Description | Technologies | Repository |
+|---|---|---|---|
+| Employee Attrition Prediction | Employee attrition prediction using machine learning | Python, Scikit-learn, SMOTE | Repository link to be added |
+| South African Education & Unemployment Analysis | Analysis of education and unemployment trends | Python, Pandas, NumPy, SQLite | Repository link to be added |
+
+---
+
+## ⚙️ Technologies & Tools
+
+### Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![CSharp](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+### Frameworks
+
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+### Databases & Tools
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 📈 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mxolisi78&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mxolisi78&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
 
 ---
 
